@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1749411037 source:c:\users\kenny\desktop\progr\codes\fight club\main.cpp
+	"Game.h"
+	<iostream>
+
+1749413607 source:c:\users\kenny\desktop\progr\codes\fight club\src\character.cpp
+	"Character.h"
+	<iostream>
+	<string>
+
+1749413601 c:\users\kenny\desktop\progr\codes\fight club\include\character.h
+	<string>
+	<vector>
+
+1749413425 source:c:\users\kenny\desktop\progr\codes\fight club\src\knight.cpp
+	"Knight.h"
+	<iostream>
+
+1749413629 c:\users\kenny\desktop\progr\codes\fight club\include\knight.h
+	"Character.h"
+	<string>
+
+1749413432 source:c:\users\kenny\desktop\progr\codes\fight club\src\mage.cpp
+	"Mage.h"
+	<iostream>
+
+1749413625 c:\users\kenny\desktop\progr\codes\fight club\include\mage.h
+	"Character.h"
+	<string>
+
+1749413449 source:c:\users\kenny\desktop\progr\codes\fight club\src\owncharacter.cpp
+	"OwnCharacter.h"
+	<iostream>
+
+1749413628 c:\users\kenny\desktop\progr\codes\fight club\include\owncharacter.h
+	"Character.h"
+	<string>
+
+1749413556 source:c:\users\kenny\desktop\progr\codes\fight club\src\game.cpp
+	"Game.h"
+	"Character.h"
+	"Knight.h"
+	"Mage.h"
+	"OwnCharacter.h"
+	<vector>
+	<iostream>
+	"Game.h"
+	"Character.h"
+	"Knight.h"
+	"Mage.h"
+	"OwnCharacter.h"
+	<vector>
+	<iostream>
+
+1749412185 c:\users\kenny\desktop\progr\codes\fight club\include\game.h
+	"Character.h"
+
